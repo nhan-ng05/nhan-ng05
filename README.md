@@ -17,7 +17,7 @@ I am a passionate Mobile Developer specialized in building cross-platform applic
 - 👯 I’m looking to collaborate on Open Source Flutter projects.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_CỦA_BẠN]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhan-ng05&show_icons=true&theme=radical)
 
 ---
 
