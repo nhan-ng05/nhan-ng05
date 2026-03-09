@@ -1,4 +1,4 @@
-# Hi there, I'm Nhân! 👋
+# Hi there, I'm Nguyễn Thành Nhân! 👋
 ### Mobile Developer | Flutter Enthusiast 🚀
 
 I am a passionate Mobile Developer specialized in building cross-platform applications using **Flutter & Dart**. I love turning complex problems into beautiful, pixel-perfect user interfaces.
@@ -24,4 +24,4 @@ I am a passionate Mobile Developer specialized in building cross-platform applic
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](link_của_bạn) | [Email](mailto:email_của_bạn) | [Portfolio Website](link_website_nếu_có)
+[Email](mailto:thanhnhannguyennn05@gmail.com) | [Facebook](https://www.facebook.com/nguyen.nhan.875013/)
