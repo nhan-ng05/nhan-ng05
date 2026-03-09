@@ -16,11 +16,12 @@ I am a passionate Mobile Developer specialized in building cross-platform applic
 - 🌱 I’m currently learning **Clean Architecture** and **Unit Testing** in Flutter.
 - 👯 I’m looking to collaborate on Open Source Flutter projects.
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhan-ng05&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nhan-ng05&layout=compact&theme=radical&cache_seconds=1800)
+### 🚀 My Expertise
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ### 📫 Connect with me:
