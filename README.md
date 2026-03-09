@@ -12,7 +12,7 @@ I am a passionate Mobile Developer specialized in building cross-platform applic
 - **Tools:** Git, Postman, Figma, Android Studio
 
 ### 📱 What I'm working on
-- 🔭 I’m currently working on **[Tên dự án hiện tại]** - một ứng dụng về [lĩnh vực gì đó].
+- 🔭 I’m currently working on [Small Chat App](https://github.com/nhan-ng05/Simple-Chat-App-Flutter)
 - 🌱 I’m currently learning **Clean Architecture** and **Unit Testing** in Flutter.
 - 👯 I’m looking to collaborate on Open Source Flutter projects.
 
