@@ -18,9 +18,9 @@ I am a passionate Mobile Developer specialized in building cross-platform applic
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhan-ng05&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhan-ng05&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nhan-ng05&layout=compact&theme=radical)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nhan-ng05&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 ### 📫 Connect with me:
