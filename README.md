@@ -22,6 +22,13 @@ I am a passionate Mobile Developer specialized in building cross-platform applic
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📂 Featured Projects
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **[Simple Chat App](https://github.com/nhan-ng05/Simple-Chat-App-Flutter)** | Flutter Mobile, Firebase Authentication, Firebase Firestore | 🟡 In Progress |
+| **[Coffee Ordering App](https://github.com/nhan-ng05/Coffee-shop-simple-UI)** | Flutter Mobile, Firebase Authentication | 🟢 Completed |
+
 ---
 
 ### 📫 Connect with me:
