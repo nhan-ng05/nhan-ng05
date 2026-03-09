@@ -7,8 +7,8 @@ I am a passionate Mobile Developer specialized in building cross-platform applic
 
 ### 🛠 My Tech Stack
 - **Framework:** Flutter (Provider, Riverpod, Bloc)
-- **Language:** Dart, (có thể thêm Java/Kotlin hoặc Swift nếu bạn biết cơ bản)
-- **Backend & Database:** Firebase, SQLite, Appwrite, REST API
+- **Language:** Dart, Java, Swift
+- **Backend & Database:** Firebase, SQLite, REST API
 - **Tools:** Git, Postman, Figma, Android Studio
 
 ### 📱 What I'm working on
