@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Nhân! 👋
+### Mobile Developer | Flutter Enthusiast 🚀
 
-<!--
-**nhan-ng05/nhan-ng05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Mobile Developer specialized in building cross-platform applications using **Flutter & Dart**. I love turning complex problems into beautiful, pixel-perfect user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+- **Framework:** Flutter (Provider, Riverpod, Bloc)
+- **Language:** Dart, (có thể thêm Java/Kotlin hoặc Swift nếu bạn biết cơ bản)
+- **Backend & Database:** Firebase, SQLite, Appwrite, REST API
+- **Tools:** Git, Postman, Figma, Android Studio
+
+### 📱 What I'm working on
+- 🔭 I’m currently working on **[Tên dự án hiện tại]** - một ứng dụng về [lĩnh vực gì đó].
+- 🌱 I’m currently learning **Clean Architecture** and **Unit Testing** in Flutter.
+- 👯 I’m looking to collaborate on Open Source Flutter projects.
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_CỦA_BẠN]&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](link_của_bạn) | [Email](mailto:email_của_bạn) | [Portfolio Website](link_website_nếu_có)
